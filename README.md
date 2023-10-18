@@ -4,11 +4,6 @@
 # 💫 About Me:
 🔭 I am a Security Specialist with a passion for Technology and Security related domains.<be>
 
-### Website:
-[My portfolio](https://malcolmcybersec-io.pages.dev/)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malcolmcybersec) 
 
 # 💻 Tech Stack:
  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
