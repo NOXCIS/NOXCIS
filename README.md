@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I am a Security Specialist with a passion for Technology and Security related domains.<be>
+🔭 I am a Dreamer a Schemer and Malware Analyst a<be>
 
 
 # 💻 Tech Stack:
