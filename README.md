@@ -7,6 +7,7 @@
 
 # 💻 Tech Stack:
  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+ https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NOXCIS&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
