@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I am a Dreamer a Schemer and Malware Analyst a<be>
+🔭 I am a Dreamer a Schemer and a Malware Analyst <be>
 
 
 # 💻 Tech Stack:
