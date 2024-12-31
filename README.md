@@ -2,8 +2,10 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&repeat=false&random=false&width=435&lines=---Building+.+.+.;---Deploying+.+.+.;---Hello%2C+My+name+is+Noxcis)](https://git.io/typing-svg)
 
- - Malware Analyst
+ - Decent Malware Analyst
  - Occasional DevOps Engineer
+ - Unintentional Software Engineer
+ - Aspiring Assembly Reverse Engineer
 
 
 
