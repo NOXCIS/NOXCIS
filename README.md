@@ -1,6 +1,20 @@
 
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&repeat=false&random=false&width=435&lines=---Building+.+.+.;---Deploying+.+.+.;---Hello%2C+My+name+is+Noxcis)](https://git.io/typing-svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/leaked/leaked/output/snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/leaked/leaked/output/snake-light.svg"
+  />
+  <img
+    alt="snake animation"
+    src="https://raw.githubusercontent.com/leaked/leaked/output/snake-light.svg"
+  />
+</picture>
 
  - Decent Malware Analyst
  - Occasional DevOps Engineer
