@@ -16,11 +16,10 @@
     src="https://raw.githubusercontent.com/leaked/leaked/output/snake-light.svg"
   />
 </picture>
-
- - Decent Malware Analyst
- - Occasional DevOps Engineer
+ - Reverse Engineer
+ - Malware Analyst
+ - DevOps Engineer
  - Unintentional Software Engineer
- - Aspiring Assembly Reverse Engineer
 
 
 
