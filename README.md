@@ -16,6 +16,7 @@
     src="https://raw.githubusercontent.com/leaked/leaked/output/snake-light.svg"
   />
 </picture>
+
  - Reverse Engineer
  - Malware Analyst
  - DevOps Engineer
